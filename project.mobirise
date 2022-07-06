@@ -50,7 +50,7 @@
     ],
     "chatbutton": {},
     "favicon": "@PROJECT_PATH@/assets/images/black-and-white-modern-minimalist-ramadhan-sale-instagram-post-3.png",
-    "mbrsiteDomain": "droxkjkvad",
+    "mbrsiteDomain": "acjx5nubdj",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -67,7 +67,7 @@
         "main": true,
         "title": "PALESTRA DA PERÍCIA JUDICIAL NA FIG",
         "meta_descr": "PALESTRA GRATUITA DIA 26/07/2022\n10H ÀS 13H\nFIG-UNIMESP\nAv. São Luíz, 315 - Vila Rosalia, Guarulhos\n\n\"PERICIA JUDICIAL: A OCUPAÇÃO E O RECONHECIMENTO\"",
-        "header_custom": "",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-K1VESHX0NR\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-K1VESHX0NR');\n</script>",
         "footer_custom": "",
         "html_before": ""
       },
